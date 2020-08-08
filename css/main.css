@@ -12,15 +12,6 @@ font-family: 'helveticaNeue';
 src: url("font/Helvetica45Light_22437.ttf");
 }
 
-/* :root{ */
-    /* --maxBodyWidth: 700px; */
-    /* --profilColor: rgb(245, 183, 68); */
-    /* --spreadSide: 35px; */
-    /* --font: Arial, Helvetica, sans-serif; */
-    /* --spreadBlockSeperation: 22px; */
-    /* --grayColor: rgb(121, 109, 109); */
-/* } */
-
 html {
     display: flex;
     flex-direction: column;

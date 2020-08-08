@@ -124,8 +124,6 @@
 
 
 
-
-
 #recommandationHobbiesBlock {
     width: 100%;
     height: 150px;
@@ -150,13 +148,22 @@
     opacity: 0.6;
 }
 
-.iconHobbies {
+/* .iconHobbies {
     height: 40px;
     width: 40px;
     border-radius: 50%;
     border: 1.5px solid black;
+} */
+.iconHobbies {
+    font-size:30px;
+    color: black;
+    border: 1.5px solid black;
+    padding: 0.25em 0.16em;
+    border-radius: 50%;
 }
-
+.racketTennis {
+    padding: 0.25em;
+}
 
 
 #recommandationBlock {
