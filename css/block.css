@@ -1,5 +1,5 @@
 
-#photoTitleBlock {
+header {
     width: 100%;
     height: 200px;
     display: flex;
@@ -65,7 +65,7 @@
 }
 
 
-#centerBlock {
+main {
     display: flex;
     flex-direction: row;
     align-items: flex-start;
@@ -122,9 +122,7 @@
 }
 
 
-
-
-#recommandationHobbiesBlock {
+footer {
     width: 100%;
     height: 150px;
     display: flex;
@@ -148,12 +146,6 @@
     opacity: 0.6;
 }
 
-/* .iconHobbies {
-    height: 40px;
-    width: 40px;
-    border-radius: 50%;
-    border: 1.5px solid black;
-} */
 .iconHobbies {
     font-size:30px;
     color: black;
@@ -309,7 +301,7 @@
 @media all and (max-width: 500px) {
 
 
-    #photoTitleBlock {
+    header {
         width: 100%;
         height: 280px;
         display: flex;
@@ -357,7 +349,7 @@
     }
 
 
-    #centerBlock {
+    main {
         display: flex;
         flex-direction: column-reverse;
         align-items: flex-start;
@@ -390,7 +382,7 @@
         width: 100%;
     }
     
-    #recommandationHobbiesBlock {
+    footer {
         background-color: #F5B744;
         width: 100%;
         height: 220px;
