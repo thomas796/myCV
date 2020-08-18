@@ -2,16 +2,6 @@
     box-sizing: border-box;
 }
 
-@font-face {
-    font-family: 'helveticaNeueBold';
-    src: url("font/HelveticaNeueBold.otf");
-}
-
-@font-face {
-    font-family: 'helveticaNeue';
-    src: url("font/Helvetica45Light_22437.ttf");
-}
-
 html {
     display: flex;
     flex-direction: column;
