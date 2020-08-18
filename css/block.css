@@ -172,22 +172,11 @@ footer {
 
 .nameRecommandation {
     margin: 0px;
+    text-align: center;
     margin-top: 2px;
     font-size: 0.7rem;
     font-family: Arial, Helvetica, sans-serif;
     color: rgb(121, 109, 109);
-}
-
-.posteRecommandation {
-    margin: 0px;
-    margin-top: 2px;
-    font-size: 0.6rem;
-    font-family: Arial, Helvetica, sans-serif;
-    color: rgb(121, 109, 109);
-}
-
-#recommandationDesktop {
-    display: flex;
 }
 
 #recommandationPhone {
